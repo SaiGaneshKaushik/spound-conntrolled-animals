@@ -1,0 +1,43 @@
+.footer
+{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 3;
+  color: rgb(94, 89, 89);
+  background-color: aliceblue;
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px rgb(133, 129, 129);
+  word-spacing: 2px;
+}
+body
+{
+  background: pink;
+  font-family: 'Square Peg', cursive;
+}
+.header_div
+{
+  background: aliceblue;
+  color: rgb(34, 121, 121);
+}
+.header_div p
+{
+   font-size: 15px;
+   font-weight: bold;
+   letter-spacing: 2px;
+   color: rgb(20, 57, 57);
+   font-family: 'Special Elite', cursive;
+}
+.header_div h1
+{
+  font-size: 40px;
+}
+.main-div button{
+  margin-top: 30px;
+  font-size: 20px;
+  width: 100px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
